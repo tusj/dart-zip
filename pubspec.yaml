@@ -1,0 +1,4 @@
+name: zip
+description: A pub package
+dependencies:
+  unittest: any
