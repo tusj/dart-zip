@@ -14,3 +14,5 @@ outputs
 ```dart
 ((1, 3), (2, 4))
 ```
+
+Zip functionality can be achieved with [package collection](http://pub.dartlang.org/packages/collection), but you need to instantiate a new object, which is unnecessary for a two-line function.
